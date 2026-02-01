@@ -1,0 +1,28 @@
+# Virtual Environment
+ambiente_numpy/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# IDE files
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Matplotlib cache
+.matplotlib/
+
+# Streamlit cache
+.streamlit/
+
+# Logs and temp files
+*.log
+*.tmp
+*.temp
