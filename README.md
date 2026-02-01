@@ -168,7 +168,7 @@ El módulo de EDA incluye **10 análisis completos**:
 ## 🔗 Enlaces
 
 - **Repositorio GitHub:** https://github.com/omarx33/Python-Marketing-EDA.git
-- **Aplicación Desplegada:** https://bank-marketing-eda-omarx33.streamlit.app/
+- **Aplicación Desplegada:** https://python-marketing-eda-nafzfmxghxvtkddycsabpe.streamlit.app/
 
 ---
 
